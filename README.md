@@ -22,9 +22,7 @@ If false positives are detected by your AV due to creation of folders, turn off 
 
 # Builds
 
-Binaries can be found here
-
-[releases]: https://github.com/recreationx/autoiPhoneFrame/releases	"releases"
+Binaries can be found [here](https://github.com/recreationx/autoiPhoneFrame/releasesf)
 
 Run iPhoneFrame.exe from command line or directly. When ran directly, program will close after execution.
 
